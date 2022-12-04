@@ -1,0 +1,123 @@
+*{
+   margin: 0; PADDING: 0;Box-sizing: border-box;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+
+
+nav{
+   width: 100%; height: 15vh;
+   BACKGROUND:RGBA(0,0,0,0.2);
+   color: WHITE; display: flex; justify-content: space-between;
+   align-items: center; text-transform: uppercase;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+nav .logo{
+   width: 35%; text-align: center;
+  
+}
+
+nav .Assignment{
+   width: 90%; 
+   display: flex; justify-content:space-between;
+}
+
+nav .Assignment a{
+   width: 70%;
+   text-decoration: none; color: white;
+   font-weight: bold;
+color:black;
+
+}
+
+
+
+
+
+
+
+menu.p{
+   font-size: medium;
+}
+
+footer{
+   background-color: #37474F;
+   width: 100%; height: 300px;
+   
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item{
+   margin-block-end: 5%;
+   padding-right: 2%;
+   padding-left: 2%;
+}
+.items{
+   margin-block-end: 5%;
+   padding-right: 2%;
+   padding-left: 2%;
+}
+.itemss{
+   margin-block-start: 5%;
+   
+}
+.itemsss{
+   margin-block-end: 5%;
+   padding-right: 2%;
+   padding-left: 2%;
+}
+.itemsssss{
+   margin-block-end: 5%;
+   padding-right: 2%;
+   padding-left: 2%;
+}
+.banner{
+   background-color: #DEE4E7;
+   height: 405px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.banners{
+   background-color: #DEE4E7;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+   
+      margin-inline-start: auto;
+      margin-inline-end: auto;
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-bottom-width: 1px;
+      border-left-width: 1px;
+
+
+      
+}
+
+
+.BACK{
+   background-color: #DEE4E7;
+}
+.fill{
+   background-color: #DEE4E7;
+
+}
+.box{
+
+   width: auto;
+   height: auto;
+   border: 15px solid gray;
+   
+
+}
+
+
+
